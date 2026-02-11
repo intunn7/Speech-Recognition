@@ -1,8 +1,6 @@
 # YukBicara - Speech Recognition & Analysis App 🎙️
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 Aplikasi latihan berbicara bahasa Indonesia dengan fitur analisis akurasi, kecepatan berbicara, dan perbandingan hasil menggunakan teknologi Speech Recognition berbasis AI.
 
