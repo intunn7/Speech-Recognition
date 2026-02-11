@@ -6,9 +6,6 @@
 
 Aplikasi latihan berbicara bahasa Indonesia dengan fitur analisis akurasi, kecepatan berbicara, dan perbandingan hasil menggunakan teknologi Speech Recognition berbasis AI.
 
-![YukBicara Banner](https://via.placeholder.com/800x200/ffb464/333333?text=YukBicara+Speech+Recognition)
-
----
 
 ## 📋 Deskripsi
 
@@ -288,121 +285,9 @@ Membandingkan word-by-word antara teks referensi dan hasil recognition:
 
 ---
 
-## 🗂️ Struktur Project
 
-```
-Speech-Recognition/
-├── YUKBICARAA.py          # File utama aplikasi
-├── BG-01.png              # Background image untuk GUI
-├── README.md              # Dokumentasi (file ini)
-├── requirements.txt       # Dependencies list
-├── LICENSE                # Lisensi project
-└── screenshots/           # Folder screenshot (opsional)
-    ├── main-window.png
-    └── comparison-window.png
-```
 
----
 
-## 🚧 Roadmap & Future Development
 
-### Version 2.0 (Planned)
-- [ ] Support multi-bahasa (Inggris, Jawa, Sunda)
-- [ ] Offline speech recognition
-- [ ] Export hasil ke PDF/Word
-- [ ] History latihan dengan grafik progress
-- [ ] AI feedback untuk pronunciation
-- [ ] Tema dark mode
-- [ ] Mobile app version (Android/iOS)
 
-### Ideas & Suggestions
-Punya ide untuk fitur baru? Silakan buat **Issue** atau **Pull Request**!
 
----
-
-## 👥 Tim Pengembang
-
-Project ini dikembangkan oleh:
-
-- **[Nama Anggota 1]** - Project Lead & Backend Developer
-- **[Nama Anggota 2]** - UI/UX Designer & Frontend Developer
-- **[Nama Anggota 3]** - Algorithm Developer & Tester
-- **[Nama Anggota 4]** - Documentation & Quality Assurance
-
-*Silakan update dengan nama tim Anda*
-
----
-
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima dan dihargai! Berikut cara berkontribusi:
-
-1. **Fork** repository ini
-2. Buat **branch** baru (`git checkout -b feature/AmazingFeature`)
-3. **Commit** perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** ke branch (`git push origin feature/AmazingFeature`)
-5. Buat **Pull Request**
-
-### Guidelines:
-- Gunakan komentar yang jelas dalam kode
-- Update dokumentasi jika menambah fitur
-- Test kode sebelum PR
-- Follow Python PEP 8 style guide
-
----
-
-## 📄 Lisensi
-
-Project ini dilisensikan under **MIT License** - lihat file [LICENSE](LICENSE) untuk detail.
-
-```
-MIT License
-
-Copyright (c) 2024 YukBicara Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
-## 📧 Kontak & Support
-
-Ada pertanyaan, saran, atau menemukan bug? Hubungi kami:
-
-- 📧 Email: [email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/intunn7/Speech-Recognition/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/intunn7/Speech-Recognition/discussions)
-- 👤 GitHub: [@intunn7](https://github.com/intunn7)
-
----
-
-## 🌟 Acknowledgments
-
-Terima kasih kepada:
-- **Google** untuk Speech Recognition API
-- **NLTK Team** untuk natural language processing tools
-- **Python Community** untuk libraries yang luar biasa
-- **Contributors** yang telah membantu pengembangan project
-
----
-
-## 📚 Resources & References
-
-- [Speech Recognition Documentation](https://pypi.org/project/SpeechRecognition/)
-- [NLTK Documentation](https://www.nltk.org/)
-- [Pygame Documentation](https://www.pygame.org/docs/)
-- [Python Tkinter Tutorial](https://docs.python.org/3/library/tkinter.html)
-
----
-
-<div align="center">
-
-### ⭐ Jika project ini bermanfaat, jangan lupa berikan **Star**! ⭐
-
-Made with ❤️ by YukBicara Team
-
-**[⬆ Back to Top](#yukbicara---speech-recognition--analysis-app-)**
-
-</div>
